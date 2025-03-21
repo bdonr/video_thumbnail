@@ -30,7 +30,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: xyz.justsoft.video_thumbnail
+        package: me.ctwo.ctwome.video_thumbnail
         pluginClass: VideoThumbnailPlugin
       ios:
         pluginClass: VideoThumbnailPlugin
